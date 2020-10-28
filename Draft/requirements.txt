@@ -1,2 +1,0 @@
-rasa==1.9.6
-git+https://github.com/apixu/apixu-python.git
