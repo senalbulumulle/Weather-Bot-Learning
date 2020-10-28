@@ -7,7 +7,7 @@ any additions, or changes on this learning repository, please let me know. The c
 in the "dependencies.sh" file.
 
 ### Research Sources 
-[text](https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script)
+[https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script](https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script)
 
 ### Dependencies required to install and run Rasa
 Run the dependencies.sh installer and sit back and relax.
