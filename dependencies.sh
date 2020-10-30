@@ -6,6 +6,12 @@
 sudo apt update
 sudo apt upgrade
 
+## Install Development tools 
+sudo apt install build-tools
+
+## Install Curl
+sudo apt install curl 
+
 ## Installing dependencies
 curl -s get-rasa-x.rasa.com | sudo bash
 
