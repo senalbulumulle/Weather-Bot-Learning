@@ -1,4 +1,4 @@
-## dependencies.sh
+## dependencies-python-version.sh
 ## Written by Senal Bulumulle 
 ## This script allows the dependencies to be installed that are required for Rasa
 
