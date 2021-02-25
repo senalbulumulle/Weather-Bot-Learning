@@ -1,5 +1,5 @@
 # Weather-Bot-Learning
-Learning how to build a chatbot using Rasa. This is for UNF ARIO. 
+Learning how to build a chatbot using Rasa. This is for UNF AIRO. 
 
 I am using this on a virtual machine running on Ubuntu 20.04.1. I also created a shell script that
 helps the installation of the dependencies and packages that are required for Rasa. If there are 
