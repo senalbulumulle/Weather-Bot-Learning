@@ -44,7 +44,7 @@ sudo apt install curl
 
 ## Installing dependencies
 sudo apt install python3-dev python3-pip
-sudo apt-get install python3-ven
+sudo apt-get install python3-venv
 
 
 ## Create a new virtual environment
