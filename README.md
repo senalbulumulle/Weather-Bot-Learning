@@ -10,21 +10,30 @@ any additions, or changes on this learning repository, please let me know. The c
 
 [https://www.rasa.com/docs/rasa/installation](https://rasa.com/docs/rasa/installation)
 
+[https://www.multipass.run](https://multipass.run/)
+
 [https://www.virtualbox.org](https://www.virtualbox.org)
 
 [https://xubuntu.org/](https://xubuntu.org/)
 
 ### Recommendations 
 Here are the lists that I recommend to install and download 
+- Ubuntu Multipass: This program is completely free to install on Linux, macOS, and Windows. It is a hypervisor virtual machine program that allows you to create Ubuntu virtual machine instances natively on your system. (CLI ONLY)
+
+
 - Virtualbox: This program is completely free to install on Linux, macOS, and Windows. It is a hypervisor virtual machine program that allows you to create virtual machines whether it is Linux, Windows, macOS, or any operating system, you can put it into a virtual machine. 
 
 - Xubuntu:  This Linux distribution is based on Ubuntu Linux that has the XFCE-desktop preinstalled right out of the box. 
+### How to create an Ubuntu Multipass Virtual Machine instance 
+```sh
+multipass launch 20.04 -v --disk <STORAGE SIZE>G --name <NAME OF INSTANCE>
+```
 
 
 ### Dependencies required to install and run Rasa
 Run the install.sh installer and sit back and relax.
 ```sh
-wget -0 https://www.raw.githubusercontent.com/senalbulumulle/Weather-Bot-Learning/main/install.sh
+sh install.sh
 ```
 
 ### Manual Installations 
