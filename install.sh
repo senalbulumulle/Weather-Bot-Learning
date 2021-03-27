@@ -42,7 +42,7 @@ echo
 ## Install Development tools 
 echo "Installing Build Development Tools via APT Package Manager"
 sleep 3
-sudo apt install build-tools
+sudo apt install build-essential
 
 
 ## Install npm 
