@@ -32,7 +32,7 @@ sh install.sh
 In order to install Rasa Open Source: 
 ```sh
 ## Install Development tools 
-sudo apt install build-tools
+sudo apt install build-essential
 
 
 ## Install npm 
