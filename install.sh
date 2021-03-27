@@ -60,9 +60,9 @@ sudo apt install curl
 echo "Installing python3-dev python3-pip via APT Package Manager"
 sleep 3
 sudo apt install python3-dev python3-pip
-echo "Installing python3-ven via APT Package Manager"
+echo "Installing python3-venv via APT Package Manager"
 sleep 3
-sudo apt-get install python3-ven
+sudo apt-get install python3-venv
 
 
 ## Create a new virtual environment
