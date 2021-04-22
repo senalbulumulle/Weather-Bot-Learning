@@ -64,3 +64,11 @@ curl -s get-rasa-x.rasa.com | sudo bash
 
 
 ```
+### Initializing Rasa
+To initialize Rasa, simply go to the directory by typing: 
+```sh
+source ./venv/bin/activate/
+```
+```sh
+rasa init
+```
