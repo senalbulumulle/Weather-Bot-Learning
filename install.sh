@@ -55,6 +55,15 @@ echo "Installing curl via APT Package Manager"
 sleep 3
 sudo apt install curl 
 
+## Install php7.2-cli
+echo "Installing php7.2-cli via APT Package Manager"
+sleep 3
+apt install php7.2-cli
+
+## Install hhvm
+echo "Installing hhvm via APT Package Manager"
+sleep 3
+apt install hhvm
 
 ## Installing dependencies
 echo "Installing python3-dev python3-pip via APT Package Manager"
